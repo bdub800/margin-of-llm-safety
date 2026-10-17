@@ -1,7 +1,7 @@
 # Research Report: Can LLMs Actually Value Stocks?
 Oct 14, 2026
 
-Note: This report is entirely written by hand without AI assistance. The stock analysis and valuation though in the `examples` folder are 100% LLM generated. 
+Note: This report is entirely written by hand without AI assistance.
 
 Disclaimer: For informational purposes only, not investment advice. The author may at any time acquire or dispose of positions in any security discussed without notice.
 
@@ -190,6 +190,8 @@ What constitutes "good" valuation:
 - For convenience: how close is the number to professional analysts' consensus
 
 ## Empirical Results
+
+**NOTE: The actual output files from the system (and evaluated in this section) can be inspected under the `examples` folder [here](https://github.com/bdub800/margin-of-llm-safety).**
 
 ### Case 1: NamSys Inc. (CTZ.V)
 
