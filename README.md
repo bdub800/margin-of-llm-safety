@@ -446,4 +446,4 @@ Points (1) and (3) are based on how some human analysts naturally work, and (2) 
 
 ## Contact
 
-conflicting.gradient@proton.me
+conflicting\[dot\]gradient\[at\]proton\[dot\]me
